@@ -21,7 +21,6 @@ As a software engineer, I enjoy learning new skills, always trying to find a new
 <br/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/cpp/cpp.png" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.png" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="36px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZzScUvhtRUEkmLevfJlQRBsRBTwNv4fldpg&usqp=CAU"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/php/php.png" />
