@@ -7,9 +7,9 @@
 
 ### Glad to see you here!
 
-I am a Web Developer and a C++ programmer. I love to make websites and web application.Also I like to solve coding problems, try new technologies and play Cricket.
+I am a Data Engineer and a C++ programmer. I love to make ETL pipelines and web application.Also I like to solve coding problems amd wrote complex SQL queries , automate existing processes, try new technologies and play Cricket.
 
-As a software engineer, I enjoy learning new skills, always trying to find a new kind of approach to a problem keeping it effective and manageable. That's why I like to build things that make a difference.
+As a Data engineer, I enjoy learning new skills, always trying to find a new kind of approach to a problem keeping it effective and manageable. That's why I like to build things that make a difference.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/48574130/118494691-0edbae00-b740-11eb-9b33-96acd66602dc.gif" width="408" height="318" />
 
