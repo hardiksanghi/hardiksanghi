@@ -7,7 +7,7 @@
 
 ### Glad to see you here!
 
-I am a Data Engineer and a C++ programmer. I love to make ETL pipelines and web application.Also I like to solve coding problems amd wrote complex SQL queries , automate existing processes, try new technologies and play Cricket.
+I am a Data Engineer and a C++ programmer. I love to make ETL pipelines and web application. Also I like to solve coding problems amd wrote complex SQL queries , automate existing processes, try new technologies and play Cricket.
 
 As a Data engineer, I enjoy learning new skills, always trying to find a new kind of approach to a problem keeping it effective and manageable. That's why I like to build things that make a difference.
 
